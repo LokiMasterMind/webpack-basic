@@ -1,0 +1,25 @@
+{
+  "name": "webpack-basic",
+  "version": "1.0.0",
+  "description": "first step to learn webpack",
+  "main": "index.html",
+  "dependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LokiMasterMind/webpack-basic.git"
+  },
+  "keywords": [
+    "webpack",
+    "learn",
+    "first_step",
+    "basic"
+  ],
+  "author": "lokesh chandawar",
+  "license": "ISC"
+}
